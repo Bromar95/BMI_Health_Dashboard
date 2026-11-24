@@ -1,4 +1,4 @@
-# 🩺 BMI Health Dashboard with Streamlit"
+# 🩺 BMI Health Dashboard with Streamlit
 
 🚀 **Live App:** [bmi-health-dashboard.streamlit.app](https://bmi-health-dashboard.streamlit.app/)
 
